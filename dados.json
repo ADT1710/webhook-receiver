@@ -1,0 +1,13 @@
+{
+  "cod_funcionario":"1059",
+  "nome":"Teste Testeiro",
+  "idade":"57",
+  "cargos":{
+    "nome":"Estagiário de T.I.",
+    "nome":"Auxiliar de T.I.",
+    "nome":"Gestor de T.I."
+  },
+  "data_admissao":"2018-02-18",
+  "data_ultima_promocao": "2022-01-22",
+  "salario":"5839.47"
+}
